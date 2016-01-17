@@ -102,7 +102,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="2" width="1489" height="1766"/>
+        <image name="2" width="200" height="237"/>
         <image name="TAPPER" width="592" height="125"/>
         <image name="airplane6" width="256" height="256"/>
         <image name="pixels" width="256" height="256"/>
